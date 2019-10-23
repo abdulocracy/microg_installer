@@ -8,7 +8,7 @@ UnifiedNlp, which is bundled with GmsCore, if installed as an user app doesn't w
 
 DroidGuard Helper needs to be installed as a system app in order to pass SafetyNet.
 
-Currently, GmsCore v0.2.8.17785-mapbox and DroidGuard Helper v0.1.0 are bundled in the module.
+Currently, GmsCore v0.2.9.19420 and DroidGuard Helper v0.1.0 are bundled in the module.
 
 **Note**: Install this module before installing any GMS-dependent apps, as well as do not disable it after installing such apps, unless you know what you're doing.
 
